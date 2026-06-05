@@ -1,0 +1,6 @@
+{
+  "name": "Realtime Chat App",
+  "description": "Một ứng dụng nhắn tin thời gian thực giống Messenger hỗ trợ nhắn tin 1-1, gởi nhãn dán, tải ảnh lên, thả icon cảm xúc, trạng thái đã xem và bảng quản trị thành viên đầy đủ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
